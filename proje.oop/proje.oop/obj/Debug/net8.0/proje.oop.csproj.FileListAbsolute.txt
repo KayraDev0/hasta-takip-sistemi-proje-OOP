@@ -1,0 +1,14 @@
+C:\Users\kayra\source\repos\proje.oop\proje.oop\bin\Debug\net8.0\proje.oop.exe
+C:\Users\kayra\source\repos\proje.oop\proje.oop\bin\Debug\net8.0\proje.oop.deps.json
+C:\Users\kayra\source\repos\proje.oop\proje.oop\bin\Debug\net8.0\proje.oop.runtimeconfig.json
+C:\Users\kayra\source\repos\proje.oop\proje.oop\bin\Debug\net8.0\proje.oop.dll
+C:\Users\kayra\source\repos\proje.oop\proje.oop\bin\Debug\net8.0\proje.oop.pdb
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.AssemblyInfoInputs.cache
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.AssemblyInfo.cs
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.csproj.CoreCompileInputs.cache
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.dll
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\refint\proje.oop.dll
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.pdb
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\proje.oop.genruntimeconfig.cache
+C:\Users\kayra\source\repos\proje.oop\proje.oop\obj\Debug\net8.0\ref\proje.oop.dll
